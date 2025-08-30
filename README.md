@@ -1,8 +1,8 @@
 ## Hi there, I'm Mina👋
 
 🐆 Computer Science Undergrad @ USA<br/>
-🔭 Currently working on updating portfolio as well as past projects<br/>
-🌱 Currently learning backend frameworks and SQL<br/>
+🔭 Currently working on a hackathon project<br/>
+🌱 Currently learning SQL and data science libraries!<br/>
 ✨ Hobbies include coding, gaming, and anime<br/>
 📥 Reach me at [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/mina-dang-888758293/) 
 
